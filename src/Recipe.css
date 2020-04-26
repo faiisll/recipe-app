@@ -1,0 +1,39 @@
+.Recipe{
+    display: flex;
+    justify-content: center;
+}
+
+.Container{
+    display: flex;
+    max-width: 80%;
+    min-width: 80%;
+    padding: 40px;
+    border: 1px solid #e6e6e6;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+
+.Desc{
+    margin-left: 40px;
+}
+
+.Desc h1{
+    margin: 0;
+    margin-bottom: 30px;
+    padding: 0;
+    line-height: 0.5;
+}
+
+
+img{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+}
+
+ul{
+    color: #707070;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
